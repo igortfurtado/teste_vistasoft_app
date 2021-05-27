@@ -1,4 +1,4 @@
-# segundo_vista_app
+# teste_vistasoft_app
 
 A new Flutter project.
 
